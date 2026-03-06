@@ -52,7 +52,7 @@ expense-tracker/
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/expense-tracker.git
+git clone https://github.com/krijeshxmaharjann/expense-tracker.git
 ```
 
 Go into the project folder:
